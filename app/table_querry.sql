@@ -1,3 +1,4 @@
+create database sentimentAnalysis
 use sentimentAnalysis
 
 create table trackPackage(
